@@ -6,13 +6,13 @@
 
 ## About Me
 
-I am a full-stack developer focused on building scalable, high-performance web platforms and modern digital solutions. My work emphasizes clean architecture, efficient systems, and strong user experience.
+I am a full-stack developer specializing in building scalable, high-performance web platforms and modern digital systems. My focus is on clean architecture, efficient backend systems, and seamless user experiences.
 
 ---
 
 ## Core Platform
 
-**Primary Platform:** https://www.vortest.com/
+Primary Platform: https://www.vortest.com/
 
 ---
 
@@ -20,13 +20,11 @@ I am a full-stack developer focused on building scalable, high-performance web p
 
 ### Platform Capabilities
 
-```
 Frontend Development     ████████████████████░░░░ 95%
 Backend Development      █████████████████░░░░░░ 85%
 API Development          ███████████████████░░░░ 90%
 Database Design          ███████████████░░░░░░░░ 80%
 DevOps & Deployment      █████████████░░░░░░░░░░ 75%
-```
 
 ---
 
@@ -34,32 +32,26 @@ DevOps & Deployment      █████████████░░░░░�
 
 ### Programming Languages
 
-```
 Python        ██████████████████████░░░░ 90%
 JavaScript    ███████████████████░░░░░░ 85%
 Java          █████████████░░░░░░░░░░░░ 70%
 TypeScript    █████████████████░░░░░░░░ 80%
 PHP           ████████████░░░░░░░░░░░░░ 65%
-```
 
 ### Frameworks & Technologies
 
-```
 React         ████████████████████░░░░ 90%
 Node.js       █████████████████░░░░░░░ 85%
 Next.js       ████████████████░░░░░░░░ 75%
 Django        █████████████░░░░░░░░░░░ 70%
 Vue.js        ████████████░░░░░░░░░░░░ 70%
-```
 
 ### Infrastructure & DevOps
 
-```
 Docker        █████████████░░░░░░░░░░░ 75%
 Kubernetes    ███████████░░░░░░░░░░░░░ 70%
 Cloud (AWS)   ███████████░░░░░░░░░░░░░ 70%
 CI/CD         █████████████░░░░░░░░░░░ 75%
-```
 
 ---
 
@@ -110,11 +102,9 @@ GitHub Actions, Jenkins
 
 ## Project Experience
 
-```
 E-commerce Platform        █████████████████░░░░ 2 Years
 Real-Time Chat System      ██████████░░░░░░░░░░░ 1 Year
 Portfolio Platform         ██████████░░░░░░░░░░░ 1 Year
-```
 
 ---
 
@@ -128,12 +118,26 @@ Portfolio Platform         ██████████░░░░░░░�
 
 ## Project Statistics
 
-```
 Total Projects           ███████████████████░░░░ 45+
 Active Repositories      ███████████████░░░░░░░░ 32
 Contributions (YTD)      █████████████████░░░░░░ 850+
 Open Source Projects     ████████░░░░░░░░░░░░░░░ 12
-```
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LasinduDeshan&show_icons=true&theme=tokyonight&title_color=22d3ee&icon_color=6366f1&text_color=d2ff4c&bg_color=0f172a&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LasinduDeshan&theme=tokyonight&ring=22d3ee&fire=d2ff4c&currStreakLabel=6366f1&background=0f172a" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LasinduDeshan&layout=compact&theme=tokyonight&title_color=22d3ee&text_color=d2ff4c&bg_color=0f172a" />
+</p>
 
 ---
 
