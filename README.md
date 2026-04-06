@@ -1,19 +1,48 @@
-# Vortest Skill Visualizations
+# Skills Visualization and Proficiency Charts
 
-## Tech Stack
-- Frontend: React, Vue.js
-- Backend: Node.js, Express
-- Database: MongoDB, MySQL
-- DevOps: Docker, Kubernetes
-- Tools: Jenkins, GitHub Actions
+## Programming Languages
+- **Python**: 5 years - Expert
+- **JavaScript**: 4 years - Advanced
+- **Java**: 3 years - Intermediate
 
-## Skill Visualizations
-### Skill Set A
-- Topic 1: ![Skill A - Topic 1](https://dummyimage.com/600x100/22d3ee/ffffff&text=Skill+A+Topic+1)
-- Topic 2: ![Skill A - Topic 2](https://dummyimage.com/600x100/6366f1/ffffff&text=Skill+A+Topic+2)
+## Frontend Frameworks
+- **React**: 4 years - Advanced
+- **Vue**: 2 years - Intermediate
 
-### Skill Set B
-- Topic 1: ![Skill B - Topic 1](https://dummyimage.com/600x100/d2ff4c/ffffff&text=Skill+B+Topic+1)
+## Backend Frameworks
+- **Node.js**: 4 years - Advanced
+- **Django**: 3 years - Intermediate
 
-## Conclusion
-This README showcases the major skills in the tech stack with visual representations.
+## Databases
+- **PostgreSQL**: 4 years - Advanced
+- **MongoDB**: 2 years - Intermediate
+
+## DevOps Tools
+- **Docker**: 3 years - Intermediate
+- **Kubernetes**: 2 years - Intermediate
+
+## Professional Expertise Matrix
+- **Full-Stack Development**: 4 years - Advanced
+- **Frontend Architecture**: 3 years - Intermediate
+- **Backend Systems**: 4 years - Advanced
+- **Database Design**: 3 years - Intermediate
+- **Cloud Services (AWS, Azure)**: 2 years - Intermediate
+- **API Development**: 4 years - Advanced
+
+## Project Experience Distribution
+- **E-commerce Web Application**: 2 years
+- **Real-Time Chat Application**: 1 year
+- **Portfolio Website**: 1 year
+
+## Technical Achievements
+- Developed a scalable e-commerce platform that processed over 1 million transactions annually.
+- Implemented a microservices architecture for a chat application.
+
+## Contact Information
+- **Email**: lasindudeshan@example.com
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/lasindudeshan)
+- **Vortest Platform**: [Vortest Link](https://www.vortest.com/)
+
+---
+
+*Note: Ensure to reach out for collaboration and opportunities!*
