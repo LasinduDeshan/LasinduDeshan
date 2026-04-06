@@ -208,7 +208,7 @@ Primary Platform: https://www.vortest.com/
 
 ## Contact
 
-📧 Email: [lasindudeshan@example.com](mailto:lasindudeshan@example.com)
+
 💼 LinkedIn: https://www.linkedin.com/in/lasindudeshan
 🌐 Platform: https://www.vortest.com/
 
