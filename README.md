@@ -36,33 +36,17 @@ Primary Platform: https://www.vortest.com/
 
 ## Technical Proficiency
 
-### Platform Capabilities
+### Platform Capabilities — Radar Overview
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Frontend Dev'],datasets:[{data:[95,5],backgroundColor:['%2322d3ee','%230f172a']}]},options:{plugins:{legend:{display:false},datalabels:{display:true,formatter:()=>'95%25',color:'%23ffffff',font:{size:18,weight:'bold'}}}}}&width=160&height=160" width="120"/>
-  &nbsp;
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Backend Dev'],datasets:[{data:[85,15],backgroundColor:['%236366f1','%230f172a']}]},options:{plugins:{legend:{display:false},datalabels:{display:true,formatter:()=>'85%25',color:'%23ffffff',font:{size:18,weight:'bold'}}}}}&width=160&height=160" width="120"/>
-  &nbsp;
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['API Dev'],datasets:[{data:[90,10],backgroundColor:['%23d2ff4c','%230f172a']}]},options:{plugins:{legend:{display:false},datalabels:{display:true,formatter:()=>'90%25',color:'%23ffffff',font:{size:18,weight:'bold'}}}}}&width=160&height=160" width="120"/>
-  &nbsp;
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Database'],datasets:[{data:[80,20],backgroundColor:['%23f472b6','%230f172a']}]},options:{plugins:{legend:{display:false},datalabels:{display:true,formatter:()=>'80%25',color:'%23ffffff',font:{size:18,weight:'bold'}}}}}&width=160&height=160" width="120"/>
-  &nbsp;
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['DevOps'],datasets:[{data:[75,25],backgroundColor:['%23fb923c','%230f172a']}]},options:{plugins:{legend:{display:false},datalabels:{display:true,formatter:()=>'75%25',color:'%23ffffff',font:{size:18,weight:'bold'}}}}}&width=160&height=160" width="120"/>
-</p>
-
-<p align="center">
-  <b>Frontend Dev</b> &nbsp;&nbsp;&nbsp;
-  <b>Backend Dev</b> &nbsp;&nbsp;&nbsp;
-  <b>API Dev</b> &nbsp;&nbsp;&nbsp;
-  <b>Database Design</b> &nbsp;&nbsp;&nbsp;
-  <b>DevOps</b>
+  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Frontend','Backend','API Dev','Database','DevOps'],datasets:[{label:'Proficiency',data:[95,85,90,80,75],backgroundColor:'rgba(34,211,238,0.15)',borderColor:'%2322d3ee',pointBackgroundColor:'%2322d3ee',pointBorderColor:'%23ffffff',pointRadius:5,borderWidth:2}]},options:{scales:{r:{angleLines:{color:'rgba(255,255,255,0.1)'},grid:{color:'rgba(255,255,255,0.1)'},pointLabels:{color:'%23f0f4ff',font:{size:13}},ticks:{display:false},suggestedMin:0,suggestedMax:100}},plugins:{legend:{display:false}}}}&width=420&height=360&backgroundColor=%230f172a" width="400"/>
 </p>
 
 ---
 
 ## Skills Visualization
 
-### Programming Languages
+### Programming Languages — Donut Charts
 
 <p align="center">
   <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Python'],datasets:[{data:[90,10],backgroundColor:['%2322d3ee','%230f172a']}]},options:{plugins:{legend:{display:false},datalabels:{display:true,formatter:()=>'90%25',color:'%23ffffff',font:{size:18,weight:'bold'}}}}}&width=160&height=160" width="120"/>
@@ -77,56 +61,27 @@ Primary Platform: https://www.vortest.com/
 </p>
 
 <p align="center">
-  <b>Python</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>JavaScript</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>TypeScript</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Java</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Python</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>JavaScript</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>TypeScript</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Java</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>PHP</b>
 </p>
 
 ---
 
-### Frameworks & Technologies
+### Frameworks & Technologies — Horizontal Bar Chart
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['React'],datasets:[{data:[90,10],backgroundColor:['%2322d3ee','%230f172a']}]},options:{plugins:{legend:{display:false},datalabels:{display:true,formatter:()=>'90%25',color:'%23ffffff',font:{size:18,weight:'bold'}}}}}&width=160&height=160" width="120"/>
-  &nbsp;
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Node.js'],datasets:[{data:[85,15],backgroundColor:['%236366f1','%230f172a']}]},options:{plugins:{legend:{display:false},datalabels:{display:true,formatter:()=>'85%25',color:'%23ffffff',font:{size:18,weight:'bold'}}}}}&width=160&height=160" width="120"/>
-  &nbsp;
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Next.js'],datasets:[{data:[75,25],backgroundColor:['%23d2ff4c','%230f172a']}]},options:{plugins:{legend:{display:false},datalabels:{display:true,formatter:()=>'75%25',color:'%23ffffff',font:{size:18,weight:'bold'}}}}}&width=160&height=160" width="120"/>
-  &nbsp;
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Django'],datasets:[{data:[70,30],backgroundColor:['%23f472b6','%230f172a']}]},options:{plugins:{legend:{display:false},datalabels:{display:true,formatter:()=>'70%25',color:'%23ffffff',font:{size:18,weight:'bold'}}}}}&width=160&height=160" width="120"/>
-  &nbsp;
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Vue.js'],datasets:[{data:[70,30],backgroundColor:['%23fb923c','%230f172a']}]},options:{plugins:{legend:{display:false},datalabels:{display:true,formatter:()=>'70%25',color:'%23ffffff',font:{size:18,weight:'bold'}}}}}&width=160&height=160" width="120"/>
-</p>
-
-<p align="center">
-  <b>React</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Node.js</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Next.js</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Django</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Vue.js</b>
+  <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['React','Node.js','Next.js','Django','Vue.js'],datasets:[{label:'Proficiency %25',data:[90,85,75,70,70],backgroundColor:['%2322d3ee','%236366f1','%23d2ff4c','%23f472b6','%23fb923c'],borderRadius:6,borderSkipped:false}]},options:{indexAxis:'y',plugins:{legend:{display:false},datalabels:{display:true,anchor:'end',align:'end',color:'%23f0f4ff',font:{size:13,weight:'bold'},formatter:(v)=>v+'%25'}},scales:{x:{display:false,max:110},y:{grid:{display:false},ticks:{color:'%23f0f4ff',font:{size:13}}}}}}&width=520&height=280&backgroundColor=%230f172a" width="500"/>
 </p>
 
 ---
 
-### Infrastructure & DevOps
+### Infrastructure & DevOps — Polar Area Chart
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Docker'],datasets:[{data:[75,25],backgroundColor:['%2322d3ee','%230f172a']}]},options:{plugins:{legend:{display:false},datalabels:{display:true,formatter:()=>'75%25',color:'%23ffffff',font:{size:18,weight:'bold'}}}}}&width=160&height=160" width="120"/>
-  &nbsp;
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Kubernetes'],datasets:[{data:[70,30],backgroundColor:['%236366f1','%230f172a']}]},options:{plugins:{legend:{display:false},datalabels:{display:true,formatter:()=>'70%25',color:'%23ffffff',font:{size:18,weight:'bold'}}}}}&width=160&height=160" width="120"/>
-  &nbsp;
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['AWS'],datasets:[{data:[70,30],backgroundColor:['%23d2ff4c','%230f172a']}]},options:{plugins:{legend:{display:false},datalabels:{display:true,formatter:()=>'70%25',color:'%23ffffff',font:{size:18,weight:'bold'}}}}}&width=160&height=160" width="120"/>
-  &nbsp;
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['CI/CD'],datasets:[{data:[75,25],backgroundColor:['%23f472b6','%230f172a']}]},options:{plugins:{legend:{display:false},datalabels:{display:true,formatter:()=>'75%25',color:'%23ffffff',font:{size:18,weight:'bold'}}}}}&width=160&height=160" width="120"/>
-</p>
-
-<p align="center">
-  <b>Docker</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Kubernetes</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>AWS</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>CI/CD</b>
+  <img src="https://quickchart.io/chart?c={type:'polarArea',data:{labels:['Docker','Kubernetes','AWS','CI/CD'],datasets:[{data:[75,70,70,75],backgroundColor:['rgba(34,211,238,0.7)','rgba(99,102,241,0.7)','rgba(210,255,76,0.7)','rgba(244,114,182,0.7)'],borderColor:['%2322d3ee','%236366f1','%23d2ff4c','%23f472b6'],borderWidth:2}]},options:{plugins:{legend:{labels:{color:'%23f0f4ff',font:{size:13}}},datalabels:{display:true,color:'%23ffffff',font:{size:13,weight:'bold'},formatter:(v)=>v+'%25'}},scales:{r:{grid:{color:'rgba(255,255,255,0.1)'},ticks:{display:false},suggestedMax:100}}}}&width=400&height=340&backgroundColor=%230f172a" width="380"/>
 </p>
 
 ---
@@ -135,90 +90,102 @@ Primary Platform: https://www.vortest.com/
 
 ### Frontend
 
-HTML5, CSS3, SCSS, JavaScript, TypeScript
-React.js, Next.js, Vue.js
-Tailwind CSS, Bootstrap
-Redux, Zustand, Vuex
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white"/>
+</p>
 
 ### Backend
 
-Node.js, Express.js
-Python (Django, FastAPI)
-Java (Spring Boot)
-PHP (Laravel)
-GraphQL, REST APIs
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
 
 ### Databases
 
-PostgreSQL, MySQL
-MongoDB, Firebase
-Redis, Elasticsearch
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+</p>
 
 ### Tools & Platforms
 
-Git, GitHub, GitLab
-Docker, Kubernetes
-AWS, Azure, Google Cloud
-GitHub Actions, Jenkins
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+</p>
 
 ---
 
 ## Professional Expertise Matrix
 
-| Domain                 | Level        |
-| ---------------------- | ------------ |
-| Full-Stack Development | Advanced     |
-| Backend Systems        | Advanced     |
-| API Development        | Advanced     |
-| Frontend Architecture  | Intermediate |
-| Database Design        | Intermediate |
-| Cloud Services         | Intermediate |
+| Domain                 | Level        | Confidence |
+| ---------------------- | ------------ | ---------- |
+| Full-Stack Development | Advanced     | ⭐⭐⭐⭐⭐ |
+| Backend Systems        | Advanced     | ⭐⭐⭐⭐⭐ |
+| API Development        | Advanced     | ⭐⭐⭐⭐⭐ |
+| Frontend Architecture  | Intermediate | ⭐⭐⭐⭐   |
+| Database Design        | Intermediate | ⭐⭐⭐⭐   |
+| Cloud Services         | Intermediate | ⭐⭐⭐⭐   |
 
 ---
 
-## Project Experience
+## Project Experience — Bar Chart
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['E-commerce'],datasets:[{data:[2,1],backgroundColor:['%2322d3ee','%230f172a']}]},options:{plugins:{legend:{display:false},datalabels:{display:true,formatter:()=>'2+yrs',color:'%23ffffff',font:{size:14,weight:'bold'}}}}}&width=160&height=160" width="130"/>
-  &nbsp;&nbsp;
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Chat'],datasets:[{data:[1,2],backgroundColor:['%236366f1','%230f172a']}]},options:{plugins:{legend:{display:false},datalabels:{display:true,formatter:()=>'1+yr',color:'%23ffffff',font:{size:14,weight:'bold'}}}}}&width=160&height=160" width="130"/>
-  &nbsp;&nbsp;
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Portfolio'],datasets:[{data:[1,2],backgroundColor:['%23d2ff4c','%230f172a']}]},options:{plugins:{legend:{display:false},datalabels:{display:true,formatter:()=>'1+yr',color:'%23ffffff',font:{size:14,weight:'bold'}}}}}&width=160&height=160" width="130"/>
-</p>
-
-<p align="center">
-  <b>E-commerce Platform</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Real-Time Chat</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Portfolio Platform</b>
+  <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['E-commerce Platform','Real-Time Chat','Portfolio Platform'],datasets:[{label:'Years',data:[2,1,1],backgroundColor:['%2322d3ee','%236366f1','%23d2ff4c'],borderRadius:8,borderSkipped:false}]},options:{plugins:{legend:{display:false},datalabels:{display:true,anchor:'end',align:'top',color:'%23f0f4ff',font:{size:14,weight:'bold'},formatter:(v)=>v+' yr'+( v>1?'s':'')}},scales:{x:{grid:{display:false},ticks:{color:'%23f0f4ff',font:{size:12}}},y:{display:false,max:3}}}}&width=480&height=260&backgroundColor=%230f172a" width="460"/>
 </p>
 
 ---
 
 ## Technical Achievements
 
-* Built scalable e-commerce system handling over 1M transactions annually
-* Designed microservices architecture for real-time systems
-* Improved backend performance and API efficiency
+* 🚀 Built scalable e-commerce system handling over **1M transactions** annually
+* ⚙️ Designed **microservices architecture** for real-time systems
+* ⚡ Improved backend performance and API efficiency significantly
 
 ---
 
-## Project Statistics
+## Project Statistics — Mixed Chart
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Projects'],datasets:[{data:[45,55],backgroundColor:['%2322d3ee','%230f172a']}]},options:{plugins:{legend:{display:false},datalabels:{display:true,formatter:()=>'45+',color:'%23ffffff',font:{size:18,weight:'bold'}}}}}&width=160&height=160" width="120"/>
-  &nbsp;
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Repos'],datasets:[{data:[32,68],backgroundColor:['%236366f1','%230f172a']}]},options:{plugins:{legend:{display:false},datalabels:{display:true,formatter:()=>'32',color:'%23ffffff',font:{size:18,weight:'bold'}}}}}&width=160&height=160" width="120"/>
-  &nbsp;
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Contributions'],datasets:[{data:[85,15],backgroundColor:['%23d2ff4c','%230f172a']}]},options:{plugins:{legend:{display:false},datalabels:{display:true,formatter:()=>'850+',color:'%23ffffff',font:{size:14,weight:'bold'}}}}}&width=160&height=160" width="120"/>
-  &nbsp;
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Open Source'],datasets:[{data:[12,88],backgroundColor:['%23f472b6','%230f172a']}]},options:{plugins:{legend:{display:false},datalabels:{display:true,formatter:()=>'12',color:'%23ffffff',font:{size:18,weight:'bold'}}}}}&width=160&height=160" width="120"/>
+  <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Total Projects','Active Repos','Open Source'],datasets:[{type:'bar',label:'Count',data:[45,32,12],backgroundColor:['%2322d3ee','%236366f1','%23d2ff4c'],borderRadius:8,borderSkipped:false,yAxisID:'y'},{type:'line',label:'Trend',data:[45,32,12],borderColor:'%23fb923c',backgroundColor:'rgba(251,146,60,0.1)',pointBackgroundColor:'%23fb923c',pointRadius:6,borderWidth:2,tension:0.4,yAxisID:'y'}]},options:{plugins:{legend:{labels:{color:'%23f0f4ff',font:{size:12}}},datalabels:{display:true,anchor:'end',align:'top',color:'%23f0f4ff',font:{size:13,weight:'bold'}}},scales:{y:{grid:{color:'rgba(255,255,255,0.08)'},ticks:{color:'%23f0f4ff'},beginAtZero:true},'x':{grid:{display:false},ticks:{color:'%23f0f4ff'}}}}}&width=500&height=280&backgroundColor=%230f172a" width="480"/>
 </p>
 
 <p align="center">
-  <b>Total Projects</b> &nbsp;&nbsp;&nbsp;
-  <b>Active Repos</b> &nbsp;&nbsp;&nbsp;
-  <b>Contributions YTD</b> &nbsp;&nbsp;&nbsp;
-  <b>Open Source</b>
+  <b>Contributions (YTD): 850+</b>
 </p>
 
 ---
@@ -241,8 +208,8 @@ GitHub Actions, Jenkins
 
 ## Contact
 
-Email: [lasindudeshan@example.com](mailto:lasindudeshan@example.com)
-LinkedIn: https://www.linkedin.com/in/lasindudeshan
-Platform: https://www.vortest.com/
+📧 Email: [lasindudeshan@example.com](mailto:lasindudeshan@example.com)
+💼 LinkedIn: https://www.linkedin.com/in/lasindudeshan
+🌐 Platform: https://www.vortest.com/
 
 ---
