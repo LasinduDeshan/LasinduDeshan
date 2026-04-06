@@ -6,13 +6,29 @@
 
 ## About Me
 
-I am a full-stack developer specializing in building scalable, high-performance web platforms and modern digital systems. My focus is on clean architecture, efficient backend systems, and seamless user experiences.
+I am a full-stack developer focused on building scalable, high-performance platforms and modern web systems. My expertise lies in backend architecture, API design, and creating efficient user-focused solutions.
 
 ---
 
 ## Core Platform
 
 Primary Platform: https://www.vortest.com/
+
+---
+
+## Core Metrics
+
+<p align="center">
+  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Frontend'],datasets:[{data:[95,5],backgroundColor:['#22d3ee','#0f172a']}]},options:{plugins:{legend:{display:false}}}}" width="160"/>
+
+  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Backend'],datasets:[{data:[85,15],backgroundColor:['#6366f1','#0f172a']}]},options:{plugins:{legend:{display:false}}}}" width="160"/>
+
+  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['API'],datasets:[{data:[90,10],backgroundColor:['#d2ff4c','#0f172a']}]},options:{plugins:{legend:{display:false}}}}" width="160"/>
+</p>
+
+<p align="center">
+Frontend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Backend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; API Development
+</p>
 
 ---
 
@@ -38,6 +54,8 @@ Java          █████████████░░░░░░░░░
 TypeScript    █████████████████░░░░░░░░ 80%
 PHP           ████████████░░░░░░░░░░░░░ 65%
 
+---
+
 ### Frameworks & Technologies
 
 React         ████████████████████░░░░ 90%
@@ -45,6 +63,8 @@ Node.js       █████████████████░░░░░
 Next.js       ████████████████░░░░░░░░ 75%
 Django        █████████████░░░░░░░░░░░ 70%
 Vue.js        ████████████░░░░░░░░░░░░ 70%
+
+---
 
 ### Infrastructure & DevOps
 
@@ -62,7 +82,7 @@ CI/CD         █████████████░░░░░░░░░
 HTML5, CSS3, SCSS, JavaScript, TypeScript
 React.js, Next.js, Vue.js
 Tailwind CSS, Bootstrap
-State Management (Redux, Zustand, Vuex)
+Redux, Zustand, Vuex
 
 ### Backend
 
@@ -110,9 +130,9 @@ Portfolio Platform         ██████████░░░░░░░�
 
 ## Technical Achievements
 
-* Designed and deployed a scalable e-commerce system handling over 1M transactions annually
-* Implemented microservices architecture for real-time communication platform
-* Optimized backend systems for performance and scalability
+* Built scalable e-commerce system handling over 1M transactions annually
+* Designed microservices architecture for real-time systems
+* Improved backend performance and API efficiency
 
 ---
 
